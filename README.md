@@ -5,7 +5,7 @@ The Zernio plugin for [Cursor](https://cursor.com) gives Cursor the tools and sk
 ## What's Included
 
 - **MCP Server** - Connection to the [Zernio MCP server](https://docs.zernio.com/resources/mcp) for scheduling posts, managing accounts, uploading media, and more across 14 social platforms
-- **Skills** - Agent skills from [zernio-api](https://github.com/zernio-dev/zernio-api) (API reference, authentication, endpoints, platform-specific features) and [social-media-api-best-practices](https://github.com/zernio-dev/social-media-api-best-practices) (OAuth patterns, rate limiting, media handling, error codes)
+- **Skills** - Agent skills from [zernio-api](https://github.com/zernio-dev/zernio-api) (API reference, authentication, endpoints, platform-specific features)
 
 ## Prerequisites
 
@@ -26,7 +26,7 @@ git submodule update --init --recursive
 To update the submodules:
 
 ```bash
-git submodule update --remote submodules/zernio-api submodules/social-media-api-best-practices
+git submodule update --remote submodules/zernio-api
 git add submodules/
 git commit -m "chore: update skill submodules"
 ```

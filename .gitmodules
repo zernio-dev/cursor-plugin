@@ -1,6 +1,3 @@
 [submodule "submodules/zernio-api"]
 	path = submodules/zernio-api
 	url = https://github.com/zernio-dev/zernio-api.git
-[submodule "submodules/social-media-api-best-practices"]
-	path = submodules/social-media-api-best-practices
-	url = https://github.com/zernio-dev/social-media-api-best-practices.git
