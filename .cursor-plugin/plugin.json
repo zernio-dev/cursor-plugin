@@ -1,7 +1,7 @@
 {
   "name": "zernio",
   "version": "0.1.0",
-  "description": "Schedule and publish to 14 social platforms with one API. Includes MCP tools and skills for building with the Zernio API.",
+  "description": "Social media API for developers. Schedule posts, manage ads, automate DMs, run sequences, and more across 14 platforms.",
   "author": {
     "name": "Zernio",
     "email": "hello@zernio.com",
@@ -10,6 +10,9 @@
   "keywords": [
     "social-media",
     "scheduling",
+    "ads",
+    "inbox",
+    "whatsapp",
     "api",
     "instagram",
     "tiktok",
