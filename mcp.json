@@ -1,9 +1,6 @@
 {
   "zernio": {
-    "command": "uvx",
-    "args": ["--from", "zernio-sdk[mcp]", "zernio-mcp"],
-    "env": {
-      "ZERNIO_API_KEY": "${ZERNIO_API_KEY}"
-    }
+    "type": "http",
+    "url": "https://mcp.zernio.com/sse"
   }
 }
