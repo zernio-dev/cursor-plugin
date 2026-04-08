@@ -1,0 +1,24 @@
+{
+  "name": "zernio",
+  "version": "0.1.0",
+  "description": "Schedule and publish to 14 social platforms with one API. Includes MCP tools and skills for building with the Zernio API.",
+  "author": {
+    "name": "Zernio",
+    "email": "hello@zernio.com",
+    "url": "https://zernio.com"
+  },
+  "keywords": [
+    "social-media",
+    "scheduling",
+    "api",
+    "instagram",
+    "tiktok",
+    "linkedin",
+    "twitter",
+    "youtube",
+    "facebook",
+    "mcp"
+  ],
+  "logo": "https://zernio.com/brand/icon-primary.png",
+  "primaryColor": "#7C3AED"
+}
