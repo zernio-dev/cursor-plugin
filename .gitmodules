@@ -1,3 +1,0 @@
-[submodule "submodules/zernio-api"]
-	path = submodules/zernio-api
-	url = https://github.com/zernio-dev/zernio-api.git
