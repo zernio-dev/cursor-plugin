@@ -4,7 +4,7 @@ The Zernio plugin for [Cursor](https://cursor.com) connects Cursor to the Zernio
 
 ## What's Included
 
-- **MCP Server** - Full access to the [Zernio API](https://docs.zernio.com) for scheduling posts, managing accounts, uploading media, running ads, managing contacts, and more across 14 social platforms
+- **MCP Server** - Full access to the [Zernio API](https://docs.zernio.com) for scheduling posts, managing accounts, uploading media, running ads, managing contacts, and more across 15 social platforms
 
 ## Prerequisites
 
