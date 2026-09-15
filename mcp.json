@@ -1,6 +1,7 @@
 {
-  "zernio": {
-    "type": "http",
-    "url": "https://mcp.zernio.com/mcp"
+  "mcpServers": {
+    "zernio": {
+      "url": "https://mcp.zernio.com/mcp"
+    }
   }
 }

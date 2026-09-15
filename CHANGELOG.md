@@ -5,5 +5,4 @@
 ### Features
 
 - Initial release
-- MCP server integration via `zernio-sdk[mcp]`
-- Agent skills: Zernio API reference and social media API best practices
+- Hosted MCP server integration for the Zernio API

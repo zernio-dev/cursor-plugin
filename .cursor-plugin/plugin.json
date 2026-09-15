@@ -1,12 +1,16 @@
 {
   "name": "zernio",
+  "displayName": "Zernio",
   "version": "0.1.0",
-  "description": "Social media API for developers. Schedule posts, manage ads, automate DMs, run sequences, and more across 14 platforms.",
+  "description": "Social media API for developers. Schedule posts, manage ads, automate DMs, run sequences, and more across 16 platforms.",
   "author": {
     "name": "Zernio",
     "email": "hello@zernio.com",
     "url": "https://zernio.com"
   },
+  "homepage": "https://zernio.com",
+  "repository": "https://github.com/zernio-dev/cursor-plugin",
+  "license": "Apache-2.0",
   "keywords": [
     "social-media",
     "scheduling",
@@ -22,6 +26,5 @@
     "facebook",
     "mcp"
   ],
-  "logo": "https://zernio.com/brand/icon-primary.png",
-  "primaryColor": "#7C3AED"
+  "logo": "assets/icon-primary.png"
 }
