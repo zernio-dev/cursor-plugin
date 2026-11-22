@@ -5,6 +5,7 @@ The Zernio plugin for [Cursor](https://cursor.com) connects Cursor to the Zernio
 ## What's Included
 
 - **MCP Server** - Full access to the [Zernio API](https://docs.zernio.com) for scheduling posts, managing accounts, uploading media, running ads, managing contacts, and more across 16 social platforms
+- **Skill `fix-conversion-tracking`** - Takes a site from a leaking [Conversion Leak Report](https://is-bleeding.com) to server-side verified: scan, install the Zernio site tag, forward to each ad network, verify, rescan
 
 ## Prerequisites
 
