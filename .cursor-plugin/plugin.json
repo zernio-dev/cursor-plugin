@@ -1,7 +1,7 @@
 {
   "name": "zernio",
-  "version": "0.2.0",
-  "description": "Social media API for developers. Schedule posts, manage ads, automate DMs, run sequences, and more across 14 platforms.",
+  "version": "0.3.0",
+  "description": "Social media API for developers. Schedule posts, manage ads, automate DMs, run sequences, and more across 18 platforms.",
   "author": {
     "name": "Zernio",
     "email": "hello@zernio.com",
